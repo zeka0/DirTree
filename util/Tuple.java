@@ -2,6 +2,7 @@ package dirTree.util;
 
 import java.io.Serializable;
 
+@Deprecated
 public class Tuple implements Serializable{
     public final Class[] classes;
     private Object[] objects;

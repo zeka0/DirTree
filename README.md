@@ -16,7 +16,10 @@ None yet
 ##Notes from Author:
 It's quite hard to write a filesystem library actually, harder than you thought.
 
-##Afternotes:
+##2015 notes
 I'm getting an Alienware 15 r2 and a razer Mamba chroma in the new year.
 And Oculus sold out yesterday.
 Hope you guys can get one in the new year.
+
+##2016 notes
+Now, there will be some fun

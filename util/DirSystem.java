@@ -429,7 +429,6 @@ public class DirSystem {
         try {
             String desktop = "/Users/mac/Desktop";
             System.out.println(relativePath("/Users/mac", "/Users/mac/Desktop"));
-            moveDir("/Users/mac/Desktop/xx", "/Users/mac/Desktop/fds/cd");
         } catch (Exception ex){
             ex.printStackTrace();
         }

@@ -18,7 +18,7 @@ class DirNode implements Serializable, Comparable<DirNode>{
     public ArrayList<DirNode> childNodes; //child dir nodes
     public DirNode parNode;
     final public String filePath; //this path
-    public ArrayList<FileDescriber> describers;
+    public ArrayList<FileDescriber> describersD:\Java\jdk1.8.0_74;
 
     public DirNode(String filePath) {
         childNodes = new ArrayList<>();
